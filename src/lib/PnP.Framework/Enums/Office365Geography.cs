@@ -94,5 +94,10 @@
         /// Sweden
         /// </summary>
         SWE,
+
+         /// <summary>
+        /// New Zealand
+        /// </summary>
+        NZL
     }
 }
